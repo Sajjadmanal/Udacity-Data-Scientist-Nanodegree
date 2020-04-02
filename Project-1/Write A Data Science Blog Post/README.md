@@ -1,4 +1,4 @@
-# Deep dive into Seattle and Boston Airbnb Data
+# Deep Dive into Seattle and Boston Airbnb Data
 
 ## Brief Overview
 
