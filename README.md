@@ -9,3 +9,5 @@ Project-3: Disaster Response Pipelines
 Project-5: Recommendations with IBM
 
 Project-6: Capstone Project
+
+Project-exercise0: World Bank API Dashboard
