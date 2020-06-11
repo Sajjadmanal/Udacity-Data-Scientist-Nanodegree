@@ -10,4 +10,4 @@ Project-5: Recommendations with IBM.
 
 Project-6: Capstone Project (Startbucks).
 
-Project-Exercise0: World Bank API Dashboard
+Project-Exercise-0: World Bank API Dashboard
